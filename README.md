@@ -1,2 +1,2 @@
 # SimpleScripts
-Just a repo of use simple scripts
+Just a repo of simple scripts for basic use cases
